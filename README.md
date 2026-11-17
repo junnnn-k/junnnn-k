@@ -59,8 +59,8 @@ Java/Spring 기반의 eGovFramework 웹 개발자로 커리어를 시작했지�
 
 ## 📫 Contact
 
-- **Email**: peter0504@naver.com
+- **Email**: junk8004@gmail.com
 
 ---
 
-*"Java 백엔드를 기반으로, 새로운 기술에 도전하는 개발자입니다."*
+*"탄탄한 Java 백엔드 실력을 기반으로, 새로운 기술에 도전하는 개발자입니다."*
